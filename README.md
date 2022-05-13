@@ -7,7 +7,7 @@
 3. Insert alt attributes for the images
 4. Arranged CSS according to the HTML orders
 5. Added a title for the HTML.
-#Knowledge learned from the process
+# Knowledge learned from the process
 1. Adjust the code step by step and keep revising the code
 2. Keep trying the code in sequences without jumping from parts to part
 
